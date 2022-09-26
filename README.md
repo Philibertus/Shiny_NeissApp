@@ -10,5 +10,8 @@ See also:
 Exercise:
 https://mastering-shiny.org/basic-case-study.html
 
+Data:
+https://github.com/hadley/neiss
+
 Solutions:
 https://mastering-shiny-solutions.org/case-study-er-injuries.html
